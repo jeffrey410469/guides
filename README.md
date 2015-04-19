@@ -1,1 +1,1 @@
-Move to <https://github.com/rocodev/guides/wiki>
+Move to <https://github.com/jeffrey410469/guides/wiki>
